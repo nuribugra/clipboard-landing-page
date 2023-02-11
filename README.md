@@ -15,8 +15,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click to reach solution](https://your-solution-url.com)
-- Live Site URL: [Click to reach live site](https://your-live-site-url.com)
+- Solution URL: [Click to reach solution](https://www.frontendmentor.io/solutions/responsive-clipboard-landing-page-css-flexbox--YwxcsG-P9)
+- Live Site URL: [Click to reach live site](https://lighthearted-piroshki-242b0e.netlify.app/)
 
 ## My process
 
